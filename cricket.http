@@ -1,0 +1,12 @@
+POST http://localhost:3000/plyaers/
+
+
+###
+POST http://localhost:3000/player/
+Content-Type: application/json
+
+{
+    "name":"Syam Velaga",
+    "age":34,
+    "score":566
+}
